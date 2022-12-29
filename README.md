@@ -1,6 +1,6 @@
 # Discord TL;DR by Wordcab
 
-Where are on Product Hunt today! [Check it out!](https://www.producthunt.com/posts/discord-tl-dr-by-wordcab)
+We are are on Product Hunt today! [Check it out!](https://www.producthunt.com/posts/discord-tl-dr-by-wordcab)
 
 This repository contains the source code for the Discord bot, Discord TL;DR by Wordcab. It is a bot that summarizes conversations on Discord servers, so you can stay up to date with all your communities, teammates, and friends.
 
