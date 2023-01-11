@@ -83,7 +83,7 @@ async def summarize(
     try:
         if not await bot_db.is_guild_authenticated(interaction.guild.id):
             await interaction.response.send_message(
-                "This guild is not authenticated. Please run `/login` first.",
+                "This guild is not authenticated. Please run `/wordcab-login` first.",
                 ephemeral=True,
             )
         else:
