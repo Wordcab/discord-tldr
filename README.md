@@ -9,6 +9,9 @@
 	</a>
 </div>
 
+<br />
+<br />
+
 <div>
 	<p>
 		See the attached Medium <a href="https://medium.com/@thomaschaigneau.ai/building-and-launching-your-discord-bot-a-step-by-step-guide-f803f7943d33" target="_blank">blog post</a> to read how to use this repository.
