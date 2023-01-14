@@ -9,7 +9,10 @@
 	</a>
 </div>
 
-<div align="center">
+<div>
+	<p>
+		See the attached Medium <a href="https://medium.com/@thomaschaigneau.ai/building-and-launching-your-discord-bot-a-step-by-step-guide-f803f7943d33" target="_blank">blog post</a> to read how to use this repository.
+	</p>
 	<p>
 		This repository contains the source code for the Discord bot, Discord TL;DR by Wordcab. It is a bot that summarizes conversations on Discord servers, so you can stay up to date with all your communities, teammates, and friends.
 	</p>
