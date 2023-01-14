@@ -9,11 +9,14 @@
 	</a>
 </div>
 
----
-
-This repository contains the source code for the Discord bot, Discord TL;DR by Wordcab. It is a bot that summarizes conversations on Discord servers, so you can stay up to date with all your communities, teammates, and friends.
-
-Check out the code to see how it works, and take inspiration from it to build your own Discord bots!
+<div align="center">
+	<p>
+		This repository contains the source code for the Discord bot, Discord TL;DR by Wordcab. It is a bot that summarizes conversations on Discord servers, so you can stay up to date with all your communities, teammates, and friends.
+	</p>
+	<p>
+		Check out the code to see how it works, and take inspiration from it to build your own Discord bots!
+	</p>
+</div>
 
 ## How to use
 
