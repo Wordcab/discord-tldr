@@ -1,4 +1,13 @@
-# Discord TL;DR by Wordcab
+<h1 align="center">Discord TL;DR by Wordcab</h1>
+
+<div align="center">
+	<a href="https://join.slack.com/t/wordcabcommunity/shared_invite/zt-1n0jo2mxj-47rYqGquR1BeyQwYrkf~kg" target="_blank">
+		<img src="https://img.shields.io/badge/JOIN US ON SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+	</a>
+	<a href="https://linkedin.com/company/wordcab" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+</div>
 
 We are are on Product Hunt today! [Check it out!](https://www.producthunt.com/posts/discord-tl-dr-by-wordcab)
 
